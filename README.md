@@ -55,8 +55,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kapuutan&theme=algolia)](https://github.com/kapputan/github-profile-trophy)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+- uses: Platane/snk@v3
+  with:
