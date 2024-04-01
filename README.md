@@ -24,3 +24,15 @@
   </a>
 </div>
 
+### About me :alien:
+- :green_heart: Самоучка, усваиваю информацию как губка
+- :green_heart: В тестировании с 2022 года
+- :green_heart: Актуализировал тест-кейсы
+- :green_heart: Запускал автотесты
+- :green_heart: Работал с SQL
+- :green_heart: Грамотно работаю с bug report [test]
+- :green_heart: Пробую в автотесты
+- :green_heart:Свободное время трачу на обучение новому
+- :dancers: Работаю в agile team
+
+  :speak_no_evil: :hear_no_evil: :see_no_evil:
