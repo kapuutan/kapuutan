@@ -48,3 +48,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kapuutan)](https://github.com/ryo-ma/github-profile-trophy)
