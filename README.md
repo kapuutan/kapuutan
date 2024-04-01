@@ -25,14 +25,26 @@
 </div>
 
 ### About me :alien:
-- :green_heart: Самоучка, усваиваю информацию как губка
+- :green_heart: Самоучка
 - :green_heart: В тестировании с 2022 года
 - :green_heart: Актуализировал тест-кейсы
 - :green_heart: Запускал автотесты
 - :green_heart: Работал с SQL
 - :green_heart: Грамотно работаю с bug report [test]
 - :green_heart: Пробую в автотесты
-- :green_heart:Свободное время трачу на обучение новому
-- :dancers: Работаю в agile team
+- :green_heart: Свободное время трачу на обучение новому
+- :green_heart: Работаю в agile team
 
   :speak_no_evil: :hear_no_evil: :see_no_evil:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original-wordmark.svg" title="sentry" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="grafana" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original-wordmark.svg". title="kibana" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"  title="selenium" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
