@@ -50,4 +50,13 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kapuutan)](https://github.com/ryo-ma/github-profile-trophy)
+.................................................................................................................................................................................................................................................................................................
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kapuutan&theme=algolia)](https://github.com/kapputan/github-profile-trophy)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
