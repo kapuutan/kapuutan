@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Card-green?logo=bitcoin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/web-green?logo=web&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
