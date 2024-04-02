@@ -7,9 +7,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=1000&color=0FA408&background=FFFFFF00&center=true&repeat=false&random=true&width=1000&lines=I'm+QA+Engeneer)](https://git.io/typing-svg)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNoZ3hvcDRwaG9udDRuMm0yNnNzNGozaW1zbDBoY2V6bXBzZzk5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="500"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <div id="badges"align="center">
@@ -55,8 +57,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kapuutan&theme=algolia)](https://github.com/kapputan/github-profile-trophy)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW84b2I4OXhib3BvaGNmdHN2cmVsM2FzMHBybWhjcTl4NndxMTByNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XkHwQ0L0CC9VcUqB8m/giphy.gif" width="500"/>
+</div>
