@@ -5,7 +5,8 @@
 </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=1000&color=0FA408&background=FFFFFF00&center=true&repeat=false&random=true&width=1000&lines=I'm+QA+Engeneer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=4000&color=44F772&center=true&vCenter=true&random=false&width=1200&lines=I'm+Boris+and+I'm+an+QA+engineer)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
