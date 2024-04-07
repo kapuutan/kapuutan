@@ -22,7 +22,7 @@
   <a href="https://vk.com/manfuckyou">
     <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://kapuutan.github.io/">
     <img src="https://img.shields.io/badge/web-green?logo=web&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
